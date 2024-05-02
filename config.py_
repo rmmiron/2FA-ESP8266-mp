@@ -1,0 +1,10 @@
+wifi_config = {
+    'ssid':'',
+    'password':''
+}
+
+totp = [
+        ('Account1', 'seed1'),
+        ('Account2', 'seed2'),
+        ('Account3', 'seed3')
+       ]
